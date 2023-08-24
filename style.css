@@ -1,6 +1,20 @@
+head{
+    background-color:white;
+    font-size:smaller;
+    
+}
+
 header{
-    background-color: #37ab98;
-color: white;}
+
+    background-color: #00008B;
+    color: white;
+
+    font-family: 'Courier New', Courier, monospace;
+}
 
 body{
-    background-color:#80bc96;}
+
+    background-color:white;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
