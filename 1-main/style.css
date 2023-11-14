@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+}
+
+header{
+
+    margin: 0 0px;
+    background-color: #191970;
+    color: white;
+}
+
+
+body{
+    background-color:white;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cabeçalho-imagem{
+    width: 5%;
+}
+
+.h1{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: right;
+
+}
+.texto {
+    text-align: justify;
+}
+
+.cabeçalho{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+img{
+    width: 20%;
+}
